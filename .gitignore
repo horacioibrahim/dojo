@@ -1,0 +1,16 @@
+.Python
+.settings
+.pydevproject
+.project
+*.bak
+bin
+build
+include
+lib
+local
+man
+share
+*.pyc
+*~
+*.db
+.DS_Store
