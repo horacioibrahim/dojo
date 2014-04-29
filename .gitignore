@@ -1,5 +1,6 @@
 .Python
 .settings
+*.swp
 .pydevproject
 .project
 *.bak
